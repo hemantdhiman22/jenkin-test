@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-date > /tmp/report-hemant
+echo "build trigger" > /tmp/report-hemant
